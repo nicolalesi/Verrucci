@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/unrealEngine/Verrucci_F/Content/Livelli/LunchRoom.umap",
+				"E:/unrealEngine/Verrucci_F/Content/Megascans/Surfaces/Patterned_Marble_Floor_ubinbclfw/MI_Patterned_Marble_Floor_ubinbclfw_1K.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/victorianCoffeTable/initialShadingGroup.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/desk/ClassicNightstand_01.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/victorianCoffeTable/scene.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/desk/ClassicNightstand_01_1k.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/greenChair/GreenChair_01.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/greenChair/GreenChair_01_1k.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/sofa2/Sofa_01.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Mesh/sofa2/Sofa_01_1k.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Megascans/Surfaces/Stucco_Facade_tjfmfemcw/MI_Stucco_Facade_tjfmfemcw_1K.uasset",
+				"E:/unrealEngine/Verrucci_F/Content/Stanze/SalaPranzo_Piccola.umap",
+				"E:/unrealEngine/Verrucci_F/Content/Livelli/SalaPranzo_Piccola.umap"
+			]
+		}
+	]
+}
